@@ -5,10 +5,6 @@ It is designed to serve as a **learning path** for beginners and an **interview 
 
 ---
 
-## 📂 Repository Structure
-
-
----
 
 ## 🚀 Topics Covered
 
